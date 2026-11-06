@@ -1,5 +1,6 @@
 # Hacked WhatsApp & Social Account Recovery
 
+<p align="center"><strong>SECURITY RESOURCE / DIGITAL FORENSICS / AUTHORIZED USE</strong></p>
 > Educational, safety-first guidance for people responding to cyber incidents. This project is independent and is not a law-enforcement agency, law firm, bank, telecom operator, or account-recovery service.
 
 A practical recovery and containment guide for compromised WhatsApp, Instagram, Facebook, Google, and other social-media accounts.
